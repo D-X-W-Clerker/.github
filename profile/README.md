@@ -22,7 +22,7 @@ AI
 - 임형빈 (팀장)
 - [20202627 구준회](https://github.com/junhoeKu)
 - 김채원
-- 이수인
+- [20212570 이수인](https://github.com/suin420)
 
 ## 서비스 플로우 설계
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/41282503-0fa3-4ef6-a372-2ecc2a6a9063">
