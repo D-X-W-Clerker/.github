@@ -14,7 +14,7 @@ AI를 활용한 회의 지원 솔루션 플랫폼입니다.
 BE
 - [20203103 류건](https://github.com/U-Geon)
 - [20203109 이정욱 (팀장)]
-- [20213071 장민우](https://github.com/alsdn4956
+- [20213071 장민우](https://github.com/alsdn4956)
 
 AI
 - 임형빈 (팀장)
