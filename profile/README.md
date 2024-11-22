@@ -25,7 +25,7 @@ FE
 
 BE
 - [20203103 류건](https://github.com/U-Geon)
-- [20203109 이정욱 (팀장)]
+- [20203109 이정욱 (팀장)](https://github.com/ukly)
 - [20213071 장민우](https://github.com/alsdn4956)
 
 AI
@@ -34,10 +34,25 @@ AI
 - 김채원
 - 이수인
 
+## 서비스 플로우 설계
+<img width="1263" alt="image" src="https://github.com/user-attachments/assets/41282503-0fa3-4ef6-a372-2ecc2a6a9063">
 
 ## 📍 상세 기술
-서비스 플로우 설계
-<img width="1263" alt="image" src="https://github.com/user-attachments/assets/41282503-0fa3-4ef6-a372-2ecc2a6a9063">
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/5a7a66dd-305e-4eeb-af5d-46aa70ab3d00">
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/fbdff645-481c-4d8d-bee5-142ac119ddae">
+<img width="1462" alt="image" src="https://github.com/user-attachments/assets/abb59530-a2dd-43b7-bdf0-0aaf87b6196e">
+<img width="1462" alt="image" src="https://github.com/user-attachments/assets/e6184017-b897-48b4-a02e-13fbcf688ba1">
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/ba8209bb-0bd2-4576-8fa4-b211cd3ac4c8">
+<img width="1462" alt="image" src="https://github.com/user-attachments/assets/10f2a89f-58b6-4c41-9baa-05e3e69a8eb6">
+<img width="1465" alt="image" src="https://github.com/user-attachments/assets/9e7070b7-1e2a-455b-84e0-4f573cd8eb33">
+<img width="1456" alt="image" src="https://github.com/user-attachments/assets/2c0fe0de-fadb-4267-8b3f-0c7210a2f851">
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/a8d48b91-5765-4279-a519-8f6c4305fbe2">
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/85d2c1dd-61e3-4304-871f-c408e9bb057b">
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/cba3edd9-9bbc-4890-9eb8-28cdb30b8403">
+<img width="1464" alt="image" src="https://github.com/user-attachments/assets/ef33eebf-5061-40ab-a31d-a1ba922bea4a">
+<img width="1460" alt="image" src="https://github.com/user-attachments/assets/3cef065f-9d92-4e3b-943f-f683733de8ce">
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/d1075a36-87a8-418a-932e-f485e25e1b6d">
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/35c77e57-e816-4c3c-a83a-c017e0a0bb53">
 
 
 ## 📍 소감 한마디
