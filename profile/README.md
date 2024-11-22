@@ -20,7 +20,7 @@ BE
 FE
 - [20223098 신진욱 (팀장)](https://github.com/jen454)
 - 황현진
-- 박건민
+- [20212992 박건민](https://github.com/pkm021118)
 - 윤성욱
 
 BE
