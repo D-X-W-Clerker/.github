@@ -3,16 +3,6 @@ Clerker
 
 AI를 활용한 회의 지원 솔루션 플랫폼입니다.
 
-## 📍 기술 스택
-BE
-- DB : MySQL 8.0
-- JDK : openjdk-17
-- Framework : Spring Boot
-- collaboration : notion, swagger-ui
-- design : figma
-- ERD 툴 : erdcloud
-
-
 ## 🗓️ 개발 기간
 2024.07 ~ 2024.11
 
@@ -36,6 +26,9 @@ AI
 
 ## 서비스 플로우 설계
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/41282503-0fa3-4ef6-a372-2ecc2a6a9063">
+
+## ERD
+<img width="1421" alt="image" src="https://github.com/user-attachments/assets/3c812d44-802c-4f87-9fe3-5d32521aa176">
 
 ## 📍 상세 기술
 <img width="1458" alt="image" src="https://github.com/user-attachments/assets/5a7a66dd-305e-4eeb-af5d-46aa70ab3d00">
