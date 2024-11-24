@@ -27,7 +27,7 @@ BE
 - [20213071 장민우](https://github.com/alsdn4956)
 
 AI
-- 임형빈 (팀장)
+- [임형빈 (팀장)](https://github.com/Hyungson)
 - [20202627 구준회](https://github.com/junhoeKu)
 - 김채원
 - [20212570 이수인](https://github.com/suin420)
