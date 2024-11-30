@@ -29,7 +29,7 @@ BE
 AI
 - [임형빈 (팀장)](https://github.com/Hyungson)
 - [20202627 구준회](https://github.com/junhoeKu)
-- 김채원
+- [20212549 김채원](https://github.com/chaewonkimm)
 - [20212570 이수인](https://github.com/suin420)
 
 ## 서비스 플로우 설계
